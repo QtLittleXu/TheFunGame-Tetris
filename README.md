@@ -42,6 +42,10 @@
 
 官网教程：<https://docs.easyx.cn/zh-cn/setup>
 
+## 许可协议
+
+本项目使用 MIT 协议，任何人都可以复制、修改、发布、使用、销售该源代码，或者在开源项目中引用该源代码，详见 LICENSE 文件。
+
 ## 主页
 
 CodeBus - Qt小徐：<https://codebus.cn/qtlittlexu>  
